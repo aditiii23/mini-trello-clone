@@ -1,0 +1,38 @@
+.task {
+  width: 280px;
+  padding: 23px 16px;
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(54, 78, 126, 0.101545);
+  margin-bottom: 20px;
+}
+
+.task:hover {
+  cursor: pointer;
+  color: orange;
+}
+
+.column {
+  min-width: 280px;
+}
+
+.col-name {
+  color: grey;
+  margin-bottom: 24px;
+}
+
+.add-column-column {
+  background: linear-gradient(180deg, #E9EFFA 0%, rgba(233, 239, 250, 0.5) 100%);
+  color: #ebb875;
+  min-width: 280px;
+  margin-top: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.add-column-column:hover {
+  color: orange;
+  transition: 0.3s;
+}

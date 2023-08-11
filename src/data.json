@@ -1,0 +1,126 @@
+{
+  "boards": [
+    {
+      "name": "Taskify",
+      "isActive" : true,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Responsive Design",
+              "description": "",
+              "status": "Todo"
+            },
+            {
+              "title": "Filtering  and Sorting",
+              "description": "",
+              "status": "Todo"
+            },
+            {
+              "title": "Task Alerts and Notifications",
+              "description": "",
+              "status": "Todo"
+            },
+            {
+              "title": "Task Collaboration",
+              "description": "Once we feel version one is ready, we need to rigorously test it both internally and externally to identify any major gaps.",
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Light and Dark Mode",
+              "description": "",
+              "status": "Doing"
+            },
+            {
+              "title": "Task Creation and Movement",
+              "description": "",
+              "status": "Doing"
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Static Dashboard",
+              "description": "",
+              "status": "Done"
+            },
+            {
+              "title": "Add three stages for each task board",
+              "description": "",
+              "status": "Done"
+            },
+            {
+              "title": "Drag and drop of tasks within stages",
+              "description": "",
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vacation Plan",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Book Hotel",
+              "description": "",
+              "status": "Todo"
+            },
+            {
+              "title": "Pack your essentials",
+              "description": "",
+              "status": ""
+            },
+            {
+              "title": "Look for a travel guide",
+              "description": "",
+              "status": ""
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Go through vlogs and articles of the destination",
+              "description": "",
+              "status": ""
+            },
+            {
+              "title": "Shop the needy essentials",
+              "description": "",
+              "status": ""
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Decide the destination",
+              "description": "",
+              "status": ""
+            },
+            {
+              "title": "Book Flight Tickets",
+              "description": "",
+              "status": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

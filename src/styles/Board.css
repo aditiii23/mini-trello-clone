@@ -1,0 +1,47 @@
+.board {
+  background-color: #f4f7fd;
+  display: flex;
+  overflow-x: scroll;
+  gap: 45px;
+  padding: 24px 16px;
+  padding-top: 88px;
+}
+
+.open-sidebar {
+  margin-left: 261px;
+}
+
+.board-empty {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+
+.board-empty-text {
+  text-align: center;
+  color: #ebb875;
+  margin-bottom: 25px;
+}
+
+.create-btn{
+  font-weight: 700;
+  font-size: 15px;
+  color: white;
+  background-color: orange;
+  padding: 15px 18px;
+  margin-top: 24px;
+}
+
+.create-btn:hover{
+  background-color: #ebb875;
+}
+
+@media only screen and (min-width: 768px) {
+  .board {
+    padding: 24px;
+    padding-top: 104px;
+  }
+}
