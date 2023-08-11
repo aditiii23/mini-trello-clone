@@ -21,18 +21,20 @@ This is the Frontend Dashboard for a mini trello clone.
 ### In the dashboard, the following goals are implemented:
 
 - Users can create boards
-  ![Image](<Screenshot from 2023-08-11 12-41-32.png>)
-
+![Screenshot from 2023-08-11 12-41-32](https://github.com/aditiii23/mini-trello-clone/assets/56069235/d1237ba2-0bbe-46ec-8339-4afb9f966f7a)
+  
 - Boards have stages like Todo, Doing, Done
 - Stages have tasks
 - Users can add their tasks from the button "+ Add New Task."
-  ![Image](<Screenshot from 2023-08-11 12-38-39.png>)
+![Screenshot from 2023-08-11 12-38-39](https://github.com/aditiii23/mini-trello-clone/assets/56069235/c76edb54-72a0-4ece-90af-5ebe4c1b6771)
 
 - Tasks can be dragged and dropped within stages
 - Multiple task boards are displayed
-  ![Image](<Screenshot from 2023-08-11 12-33-52.png>)
+![Screenshot from 2023-08-11 12-33-52](https://github.com/aditiii23/mini-trello-clone/assets/56069235/4bf4e3ed-38b0-4eb9-878b-bf80f32ee668)
+
 - All tasks are grouped by the stage they are in and the total count of tasks in each stage
 - Each task can be edited or deleted, or the stage of the task can be updated
-  ![Image](<Screenshot from 2023-08-11 12-36-26.png>)
+![Screenshot from 2023-08-11 12-36-26](https://github.com/aditiii23/mini-trello-clone/assets/56069235/44a3d1eb-a523-436a-8383-d01f2b236c06)
+
 - Description can also be added for each of the tasks
-  ![Image](<Screenshot from 2023-08-11 12-37-05.png>)
+![Screenshot from 2023-08-11 12-37-05](https://github.com/aditiii23/mini-trello-clone/assets/56069235/c49749be-f5b2-4dd6-9c12-e723bdc6ad88)
